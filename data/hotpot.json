@@ -1,0 +1,514 @@
+[
+    {
+        "qid": "hp1",
+        "difficulty": "easy",
+        "question": "Which university did the author of The Hobbit teach at?",
+        "gold_answer": "Oxford University",
+        "context": [
+            {
+                "title": "J. R. R. Tolkien",
+                "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+            },
+            {
+                "title": "Oxford University",
+                "text": "Oxford University is a collegiate research university in Oxford, England."
+            }
+        ]
+    },
+    {
+        "qid": "hp2",
+        "difficulty": "medium",
+        "question": "What river flows through the city where Ada Lovelace was born?",
+        "gold_answer": "River Thames",
+        "context": [
+            {
+                "title": "Ada Lovelace",
+                "text": "Ada Lovelace was born in London, England."
+            },
+            {
+                "title": "London",
+                "text": "London is crossed by the River Thames."
+            }
+        ]
+    },
+    {
+        "qid": "hp3",
+        "difficulty": "easy",
+        "question": "What instrument did the composer of The Four Seasons mainly play?",
+        "gold_answer": "violin",
+        "context": [
+            {
+                "title": "The Four Seasons",
+                "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+            },
+            {
+                "title": "Antonio Vivaldi",
+                "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+            }
+        ]
+    },
+    {
+        "qid": "hp4",
+        "difficulty": "medium",
+        "question": "Which ocean borders the country whose capital is Lima?",
+        "gold_answer": "Pacific Ocean",
+        "context": [
+            {
+                "title": "Lima",
+                "text": "Lima is the capital city of Peru."
+            },
+            {
+                "title": "Peru",
+                "text": "Peru borders the Pacific Ocean."
+            }
+        ]
+    },
+    {
+        "qid": "hp5",
+        "difficulty": "easy",
+        "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
+        "gold_answer": "mathematics",
+        "context": [
+            {
+                "title": "Isaac Newton",
+                "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
+            },
+            {
+                "title": "Laws of motion",
+                "text": "The three laws of motion are attributed to Isaac Newton."
+            }
+        ]
+    },
+    {
+        "qid": "hp6",
+        "difficulty": "hard",
+        "question": "What sea borders the country where Petra is located?",
+        "gold_answer": "Dead Sea",
+        "context": [
+            {
+                "title": "Petra",
+                "text": "Petra is a historical city in Jordan."
+            },
+            {
+                "title": "Jordan",
+                "text": "Jordan borders the Dead Sea to the west."
+            }
+        ]
+    },
+    {
+        "qid": "hp7",
+        "difficulty": "medium",
+        "question": "Which language family does the primary language of Brazil belong to?",
+        "gold_answer": "Romance",
+        "context": [
+            {
+                "title": "Brazil",
+                "text": "The official language of Brazil is Portuguese."
+            },
+            {
+                "title": "Portuguese language",
+                "text": "Portuguese is a Romance language."
+            }
+        ]
+    },
+    {
+        "qid": "hp8",
+        "difficulty": "hard",
+        "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
+        "gold_answer": "Himalayas",
+        "context": [
+            {
+                "title": "Kathmandu",
+                "text": "Kathmandu is the capital city of Nepal."
+            },
+            {
+                "title": "Nepal",
+                "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+            }
+        ]
+    },
+    {
+        "qid": "hp9",
+        "difficulty": "easy",
+        "question": "Which country is the capital of the city where the Eiffel Tower is located?",
+        "gold_answer": "France",
+        "context": [
+            {
+                "title": "Eiffel Tower",
+                "text": "The Eiffel Tower is located in Paris."
+            },
+            {
+                "title": "Paris",
+                "text": "Paris is the capital of France."
+            }
+        ]
+    },
+    {
+        "qid": "hp10",
+        "difficulty": "medium",
+        "question": "What continent is the country located in where the Amazon River flows?",
+        "gold_answer": "South America",
+        "context": [
+            {
+                "title": "Amazon River",
+                "text": "The Amazon River flows through Brazil."
+            },
+            {
+                "title": "Brazil",
+                "text": "Brazil is located in South America."
+            }
+        ]
+    },
+    {
+        "qid": "hp11",
+        "difficulty": "easy",
+        "question": "What color is the animal that is the national symbol of the country where kangaroos live?",
+        "gold_answer": "red",
+        "context": [
+            {
+                "title": "Australia",
+                "text": "Kangaroos are native to Australia."
+            },
+            {
+                "title": "Red kangaroo",
+                "text": "The red kangaroo is a national symbol of Australia."
+            }
+        ]
+    },
+    {
+        "qid": "hp12",
+        "difficulty": "hard",
+        "question": "Which empire ruled the region where the Colosseum is located?",
+        "gold_answer": "Roman Empire",
+        "context": [
+            {
+                "title": "Colosseum",
+                "text": "The Colosseum is located in Rome."
+            },
+            {
+                "title": "Rome",
+                "text": "Rome was the center of the Roman Empire."
+            }
+        ]
+    },
+    {
+        "qid": "hp13",
+        "difficulty": "medium",
+        "question": "Which ocean lies next to the country whose capital is Tokyo?",
+        "gold_answer": "Pacific Ocean",
+        "context": [
+            {
+                "title": "Tokyo",
+                "text": "Tokyo is the capital of Japan."
+            },
+            {
+                "title": "Japan",
+                "text": "Japan is an island nation in the Pacific Ocean."
+            }
+        ]
+    },
+    {
+        "qid": "hp14",
+        "difficulty": "easy",
+        "question": "What sport is played by the athlete who won the most Olympic gold medals?",
+        "gold_answer": "swimming",
+        "context": [
+            {
+                "title": "Michael Phelps",
+                "text": "Michael Phelps has won the most Olympic gold medals."
+            },
+            {
+                "title": "Swimming",
+                "text": "Michael Phelps is a professional swimmer."
+            }
+        ]
+    },
+    {
+        "qid": "hp15",
+        "difficulty": "hard",
+        "question": "Which language is spoken in the country where the city of Barcelona is located?",
+        "gold_answer": "Spanish",
+        "context": [
+            {
+                "title": "Barcelona",
+                "text": "Barcelona is a city in Spain."
+            },
+            {
+                "title": "Spain",
+                "text": "The official language of Spain is Spanish."
+            }
+        ]
+    },
+    {
+        "qid": "hp16",
+        "difficulty": "medium",
+        "question": "Which planet is known as the Red Planet and belongs to which solar system?",
+        "gold_answer": "Solar System",
+        "context": [
+            {
+                "title": "Mars",
+                "text": "Mars is known as the Red Planet."
+            },
+            {
+                "title": "Solar System",
+                "text": "Mars is part of the Solar System."
+            }
+        ]
+    },
+    {
+        "qid": "hp17",
+        "difficulty": "easy",
+        "question": "Which metal is used in the structure named after the city in France?",
+        "gold_answer": "iron",
+        "context": [
+            {
+                "title": "Eiffel Tower",
+                "text": "The Eiffel Tower is made of iron."
+            },
+            {
+                "title": "Paris",
+                "text": "Paris is a city in France."
+            }
+        ]
+    },
+    {
+        "qid": "hp18",
+        "difficulty": "hard",
+        "question": "Which sea is located next to the country where Mount Sinai is found?",
+        "gold_answer": "Red Sea",
+        "context": [
+            {
+                "title": "Mount Sinai",
+                "text": "Mount Sinai is located in Egypt."
+            },
+            {
+                "title": "Egypt",
+                "text": "Egypt borders the Red Sea."
+            }
+        ]
+    },
+    {
+        "qid": "hp19",
+        "difficulty": "medium",
+        "question": "Which country uses the currency euro and has Berlin as its capital?",
+        "gold_answer": "Germany",
+        "context": [
+            {
+                "title": "Berlin",
+                "text": "Berlin is the capital of Germany."
+            },
+            {
+                "title": "Euro",
+                "text": "Germany is one of the countries that use the euro."
+            }
+        ]
+    },
+    {
+        "qid": "hp20",
+        "difficulty": "easy",
+        "question": "What animal is known as man's best friend and is commonly kept as a pet?",
+        "gold_answer": "dog",
+        "context": [
+            {
+                "title": "Dog",
+                "text": "The dog is often called man's best friend."
+            },
+            {
+                "title": "Pets",
+                "text": "Dogs are commonly kept as pets."
+            }
+        ]
+    },
+    {
+        "qid": "hp21",
+        "difficulty": "easy",
+        "question": "Which country is the birthplace of the scientist who developed the theory of relativity?",
+        "gold_answer": "Germany",
+        "context": [
+            {
+                "title": "Albert Einstein",
+                "text": "Albert Einstein developed the theory of relativity."
+            },
+            {
+                "title": "Albert Einstein birthplace",
+                "text": "Albert Einstein was born in Germany."
+            }
+        ]
+    },
+    {
+        "qid": "hp22",
+        "difficulty": "medium",
+        "question": "What is the capital of the country where the Nile River flows?",
+        "gold_answer": "Cairo",
+        "context": [
+            {
+                "title": "Nile River",
+                "text": "The Nile River flows through Egypt."
+            },
+            {
+                "title": "Egypt",
+                "text": "The capital of Egypt is Cairo."
+            }
+        ]
+    },
+    {
+        "qid": "hp23",
+        "difficulty": "easy",
+        "question": "Which fruit is yellow and is the favorite food of monkeys?",
+        "gold_answer": "banana",
+        "context": [
+            {
+                "title": "Banana",
+                "text": "Bananas are yellow fruits."
+            },
+            {
+                "title": "Monkeys",
+                "text": "Monkeys are known to eat bananas."
+            }
+        ]
+    },
+    {
+        "qid": "hp24",
+        "difficulty": "hard",
+        "question": "Which mountain range is located in the country where the Ganges River originates?",
+        "gold_answer": "Himalayas",
+        "context": [
+            {
+                "title": "Ganges River",
+                "text": "The Ganges River originates in India."
+            },
+            {
+                "title": "India",
+                "text": "The Himalayas are located in northern India."
+            }
+        ]
+    },
+    {
+        "qid": "hp25",
+        "difficulty": "medium",
+        "question": "Which continent contains the country where the Sahara Desert is located?",
+        "gold_answer": "Africa",
+        "context": [
+            {
+                "title": "Sahara Desert",
+                "text": "The Sahara Desert is located in Egypt."
+            },
+            {
+                "title": "Egypt",
+                "text": "Egypt is in Africa."
+            }
+        ]
+    },
+    {
+        "qid": "hp26",
+        "difficulty": "easy",
+        "question": "What is the primary language spoken in the country where pizza originated?",
+        "gold_answer": "Italian",
+        "context": [
+            {
+                "title": "Pizza",
+                "text": "Pizza originated in Italy."
+            },
+            {
+                "title": "Italy",
+                "text": "The primary language spoken in Italy is Italian."
+            }
+        ]
+    },
+    {
+        "qid": "hp27",
+        "difficulty": "hard",
+        "question": "Which sea is adjacent to the country where the city of Tel Aviv is located?",
+        "gold_answer": "Mediterranean Sea",
+        "context": [
+            {
+                "title": "Tel Aviv",
+                "text": "Tel Aviv is a city in Israel."
+            },
+            {
+                "title": "Israel",
+                "text": "Israel borders the Mediterranean Sea."
+            }
+        ]
+    },
+    {
+        "qid": "hp28",
+        "difficulty": "medium",
+        "question": "Which language family does the language spoken in France belong to?",
+        "gold_answer": "Romance",
+        "context": [
+            {
+                "title": "France",
+                "text": "The official language of France is French."
+            },
+            {
+                "title": "French language",
+                "text": "French is a Romance language."
+            }
+        ]
+    },
+    {
+        "qid": "hp29",
+        "difficulty": "easy",
+        "question": "What type of animal is the largest mammal on Earth?",
+        "gold_answer": "whale",
+        "context": [
+            {
+                "title": "Blue whale",
+                "text": "The blue whale is the largest mammal on Earth."
+            },
+            {
+                "title": "Whales",
+                "text": "Whales are marine mammals."
+            }
+        ]
+    },
+    {
+        "qid": "hp30",
+        "difficulty": "hard",
+        "question": "Which empire built the Great Wall located in the country whose capital is Beijing?",
+        "gold_answer": "Chinese Empire",
+        "context": [
+            {
+                "title": "Beijing",
+                "text": "Beijing is the capital of China."
+            },
+            {
+                "title": "Great Wall of China",
+                "text": "The Great Wall was built by ancient Chinese empires."
+            }
+        ]
+    },
+    {
+        "qid": "hp31",
+        "difficulty": "medium",
+        "question": "Which ocean surrounds the country where Sydney is located?",
+        "gold_answer": "Pacific Ocean",
+        "context": [
+            {
+                "title": "Sydney",
+                "text": "Sydney is a city in Australia."
+            },
+            {
+                "title": "Australia",
+                "text": "Australia is surrounded by the Pacific Ocean."
+            }
+        ]
+    },
+    {
+        "qid": "hp32",
+        "difficulty": "easy",
+        "question": "What is the color of the sky on a clear day?",
+        "gold_answer": "blue",
+        "context": [
+            {
+                "title": "Sky",
+                "text": "The sky appears blue on a clear day."
+            },
+            {
+                "title": "Weather",
+                "text": "Clear weather makes the sky look blue."
+            }
+        ]
+    }
+]
